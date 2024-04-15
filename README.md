@@ -1,1 +1,1 @@
-# shop.demoqa.com-Defect-bugs--Reports
+# shop.demoqa.com-Defects-Reports
